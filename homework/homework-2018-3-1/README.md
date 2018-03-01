@@ -1,7 +1,7 @@
 一、填空
 
-- 当前常见的操作系统主要用 <font color='red'>汇编/C</font> 编程语言编写
-- "Operating system"这个单词起源于____.
+- 当前常见的操作系统主要用 <font color='red'>汇编/C</font> 编程语言编写。
+- "Operating system"这个单词起源于 <font color='red'> DOS </font>。
 - 在计算机系统中，控制和管理 <font color='red'> 资源 </font>、有效地组织 <font color='red'>程序</font> 运行的系统软件称作 <font color='red'> 操作系统 </font>。
 - 允许多用户将若干个作业提交给计算机系统集中处理的操作系统称为 <font color='red'> 批处理 </font> 操作系统。
 - 你了解的当前世界上使用最多的32bit CPU是 <font color='red'> Intel Pentium </font>，其上运行最多的操作系统是 <font color='red'> Windows </font>。
